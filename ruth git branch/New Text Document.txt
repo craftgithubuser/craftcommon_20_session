@@ -1,3 +1,0 @@
-version control
-git and github
-git branching

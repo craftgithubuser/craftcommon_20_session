@@ -1,4 +1,0 @@
-branching
-Mereging
-rebase
-push
