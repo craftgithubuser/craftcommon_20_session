@@ -1,0 +1,1 @@
+hi and welcome. File created in CMD/bit bash and added a message with bit bash.
