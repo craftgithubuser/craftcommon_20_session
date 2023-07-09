@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+From feature_1 branch change
+
+change from master
+
+=======
+From feature_1 branch change
+>>>>>>> c12f4f5 (initial commit to feature_1 branch)
