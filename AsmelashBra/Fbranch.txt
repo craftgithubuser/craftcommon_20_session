@@ -31,8 +31,8 @@ xml file just for test !
       <last>Talene</last>
    </Name>
    <address>
-      <street>5155 w.tropicna</street>
-      <zip>89103</zip>
+      <street>xxxxx</street>
+      <zip>123454</zip>
    </address>
    <creditcard>12345265</creditcard>
    <Expire>09/2023</Expire>
